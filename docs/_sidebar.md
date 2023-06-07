@@ -1,6 +1,6 @@
 [Ammo Manual Doc](README.md)
 
-- [Вступ](/1.INTRODUCTION.md)
+- [Вступ](1.INTRODUCTION.md)
 - [Абревіатури й позначення](2.ABBREVIATIONS_AND_DESIGNATIONS.md)
 - [Протипіхотні міни](3.ANTI-PERSONNEL_MINES.md)
 - [Протитранспортні міни](4.ANTI-TRANSPORT_MINES.md)
